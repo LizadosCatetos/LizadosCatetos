@@ -1,4 +1,4 @@
-#👩🏻‍💻 Oii! Meu nome é Luiza Mendes
+# 👩🏻‍💻 Oii! Meu nome é Luiza Mendes
 
 - 🌱 Cursando Sitema da Informação
 - 😄 Pronouns: Ela/Dela
