@@ -1,22 +1,9 @@
-## Oii! Meu nome é Luiza Mendes
-
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="LIZA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LIZA-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="LIZA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="LIZA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LIZA-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-# Oii! Meu nome é Luiza Mendes
+#👩🏻‍💻 Oii! Meu nome é Luiza Mendes
 
 - 🌱 Cursando Sitema da Informação
 - 😄 Pronouns: Ela/Dela
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Luiza Mendes Munoz, tenho 18 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas Da Informação na Unifacs. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube, onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
