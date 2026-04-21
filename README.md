@@ -2,7 +2,7 @@
 - 🌱 Cursando Sitema da Informação
 - 😄 Pronouns: Ela/Dela
 
-Me chamo Luiza Mendes Munoz, tenho 18 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas Da Informação na Unifacs. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube, onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado.
+Me chamo Luiza Mendes Munoz, tenho 18 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas Da Informação na Unifacs.
 
 ---
 
