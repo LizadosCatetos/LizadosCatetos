@@ -39,7 +39,7 @@ Me chamo Luiza Mendes Munoz, tenho 18 anos e sou natural da Bahia. Atualmente, e
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png"
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@ Me chamo Luiza Mendes Munoz, tenho 18 anos e sou natural da Bahia. Atualmente, e
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png"
+    src="https://img.icons8.com/color/48/python--v1.png"
 />
 
 <br/>
